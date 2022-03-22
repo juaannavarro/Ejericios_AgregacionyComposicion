@@ -1,6 +1,7 @@
 class catastrofe():
-  def __init__(self, empresa, empleado, ciudad, edificio):
+  def __init__(self, empresa, empleado, ciudad):
     self.empresa = empresa
     self.empleado = empleado
     self.ciudad = ciudad
-    self.edificio = edificio
+
+class catastrofe_ocurrida():
