@@ -60,7 +60,8 @@ print(AlDiaSiguiente.ciudades("new_york " , "los_angeles"))
 
 UML:
 
-<img width="259" alt="Captura de pantalla 2022-03-22 a las 17 41 19" src="https://user-images.githubusercontent.com/91721668/159532439-b6d8abaf-26a8-4d40-b601-21bc8401b0ec.png">
+<img width="439" alt="Captura de pantalla 2022-03-22 a las 18 05 30" src="https://user-images.githubusercontent.com/91721668/159535859-f750568e-f50b-4570-88e9-7abe5d1451a4.png">
+
 
 
 
