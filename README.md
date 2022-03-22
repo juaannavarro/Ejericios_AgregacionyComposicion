@@ -60,6 +60,10 @@ print(AlDiaSiguiente.ciudades("new_york " , "los_angeles"))
 
 UML:
 
+<img width="259" alt="Captura de pantalla 2022-03-22 a las 17 41 19" src="https://user-images.githubusercontent.com/91721668/159532439-b6d8abaf-26a8-4d40-b601-21bc8401b0ec.png">
+
+
+
 
 ## Ejercicio 2:
 
@@ -84,6 +88,11 @@ print("?")
 ``` 
 
 UML:
+
+
+<img width="418" alt="Captura de pantalla 2022-03-22 a las 17 42 59" src="https://user-images.githubusercontent.com/91721668/159532488-7352784e-b74e-4037-9370-49d587e227be.png">
+
+
 
 
 ## Ejercicio 3:
@@ -138,3 +147,6 @@ print(casa.superficie_cristal())
 ```
   
 UML:
+
+
+<img width="495" alt="Captura de pantalla 2022-03-22 a las 17 48 30" src="https://user-images.githubusercontent.com/91721668/159532289-d67949a4-ecb0-4d0c-b0c3-a7440ea53f16.png">
