@@ -11,8 +11,10 @@ class catastrofe():
 
 class AlDiaSiguiente():
       def ciudades(new_york, los_angeles):
+          
+
             while True:
-                  print("Menú")
+                  print("CREA TU PELÍCULA: ")
                   print("1.  Quieres destruir Nueva York ")
                   print("2.  Quieres destruir Los Ángeles ")
                   print("3. No quieres destruir nada")
@@ -30,7 +32,13 @@ class AlDiaSiguiente():
               print("-Se ha destruido la empresa YooHoo! ")
               print("-Fin ")
             else:
+                  print("Vuelve a elegir")
                   return
+        
+        
+        
+          
 
 print(AlDiaSiguiente.ciudades("new_york " , "los_angeles"))
+
 
