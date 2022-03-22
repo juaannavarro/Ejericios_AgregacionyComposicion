@@ -1,17 +1,13 @@
 class catastrofe():
-<<<<<<< HEAD
 
   def __init__(self, edificio, empleado, ciudad):
     self.edificio = edificio
-=======
   def __init__(self, empresa, empleado, ciudad):
     self.empresa = empresa
->>>>>>> 4273b32e95527de6cdb370f39e056bd33997f4a8
     self.empleado = empleado
     self.ciudad = ciudad
   def catastrofe_ocurrida(self):
         catastrofes = ("{1}, {2}, {3}")
-<<<<<<< HEAD
         return catastrofes.format(self.edificio, self.empleado, self.ciudad)
 
 class AlDiaSiguiente():
