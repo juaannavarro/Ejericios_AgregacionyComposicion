@@ -3,5 +3,5 @@ class catastrofe():
     self.empresa = empresa
     self.empleado = empleado
     self.ciudad = ciudad
-
-class catastrofe_ocurrida():
+  def catastrofe_ocurrida(self):
+    
